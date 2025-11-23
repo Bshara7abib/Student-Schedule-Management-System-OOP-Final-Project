@@ -78,8 +78,8 @@ The three implementations are compared on:
 
 ## 👥 Authors
 
-* Francis Aboud
 * Bshara Habib
+* Francis Aboud
 
 ---
 
